@@ -5,7 +5,7 @@ Project after learning basic HTML, CSS and Media Queries.
 
 ## Tech Stack
 
-**Frontend:** HTML, CSS\
+**Frontend:** HTML, CSS
 
 ## Demo
 
